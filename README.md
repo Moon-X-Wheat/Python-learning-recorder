@@ -12,3 +12,5 @@
 
 ## 拓展链接
 - [csdiy python](https://csdiy.wiki/%E7%BC%96%E7%A8%8B%E5%85%A5%E9%97%A8/Python/CS50P/)
+	-[课程作业](https://cs50.harvard.edu/python/2022/psets/)
+	-[课程作业代码参考](https://github.com/csfive/CS50P)
